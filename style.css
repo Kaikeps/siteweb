@@ -15,7 +15,7 @@
     }
     
     .cabecalho-imagem{
-    width: 55%;
+    width: 30%;
     }
     
     .cabecalho-lista-item{
@@ -29,7 +29,7 @@
     }
     
     .escola{
-    background-image: linear-gradient(#fdfdfd,#ffffff);
+    background-image: linear-gradient(#ffee05,#f0f0f0);
     color:white;
     display: flex;
     justify-content: center;
@@ -38,7 +38,7 @@
     }
     
     .escola-div-conteudo{
-    width: 35%;
+    width: 25%;
     }
     
     
