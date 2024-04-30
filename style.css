@@ -6,8 +6,8 @@
     font-family: 'Poppins', sans-serif;
     }
     .cabecalho {
-    background-color: #2159b4;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(251, 255, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
